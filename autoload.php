@@ -6,8 +6,4 @@
     require_once (__DIR__."/required/Redirect.php");
     require_once (__DIR__. "/required/function.php");
 
-    require (__DIR__."/required/PHPMailer/src/Exception.php");
-    require (__DIR__."/required/PHPMailer/src/PHPMailer.php");
-    require (__DIR__."/required/PHPMailer/src/SMTP.php");
-
 ?>
